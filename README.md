@@ -1,0 +1,1 @@
+gamemakerstudio2_game_platform
